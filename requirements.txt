@@ -1,6 +1,6 @@
 torch
 torchvision
-pyvene
+git+https://github.com/prlz77/pyvene.git
 transformers
 protobuf
 matplotlib
